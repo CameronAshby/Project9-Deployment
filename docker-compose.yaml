@@ -1,0 +1,6 @@
+hello-world:
+  image: hello-world:latest
+  ports:
+    - "9090:8080"
+  environment:
+    - name = "Cameron Ashby"
