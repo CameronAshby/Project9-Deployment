@@ -3,4 +3,4 @@ hello-world:
   ports:
     - "9090:8080"
   environment:
-    - name = "Cameron Ashby"
+    - NAME = "Cameron Ashby"
